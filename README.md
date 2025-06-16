@@ -6,7 +6,7 @@ More projects coming soon!
 
 ---
 
-🧠 What You'll Learn:
+**🧠 What You'll Learn:**
 
 - JavaScript fundamentals and logic
 - Variables, data types, and operators
@@ -16,6 +16,8 @@ More projects coming soon!
 - DOM manipulation and event handling
 - Local storage
 - Error handling and debugging
+
+  and many more...
 
 
 ---
